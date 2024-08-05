@@ -57,3 +57,6 @@ https://www.youtube.com/watch?v=yhoT4-3JqA4
 
 # How to print Console.log in PHP
 https://materokatti.medium.com/how-to-print-console-log-in-php-fa749112ce0b
+
+# How To Change Your WordPress Security Keys
+https://www.youtube.com/watch?v=HxyhP2EfoMY
